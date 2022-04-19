@@ -1,0 +1,11 @@
+name: CycascEventHandler
+version: 1.2.4-spigot1.18.2
+author: Dunkelklinge1
+website: https://www.cycasc.net
+
+main: net.cycasc.mc.cycasceventhandler_main.MainCycascEventHandler
+
+commands:
+  eventhandler:
+    description: Controls the settings of the CycascEventHandler plugin.
+    usage: "Usage: /eventhandler <cancelTeleportFromLiquidBlock | cancelTeleportIfTargetSolid | cancelTeleportIfDifferentWorld | cancelFireByLightningStrike> [true | false]"
