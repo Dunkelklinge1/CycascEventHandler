@@ -1,5 +1,0 @@
-cycascEventHandler:
-  cancelTeleportFromLiquidBlock: false
-  cancelTeleportIfTargetSolid: false
-  cancelTeleportIfDifferentWorld: false
-  cancelFireByLightningStrike: false
